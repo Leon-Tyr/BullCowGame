@@ -1,2 +1,1 @@
-# BullCowGame
- BullCow Word Game UE4 training
+# 03_BullCowGame
